@@ -116,17 +116,9 @@ Experienced in shipping:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwa-akshat&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishwa-akshat&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/vishwa-akshat/vishwa-akshat/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-akshat&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 

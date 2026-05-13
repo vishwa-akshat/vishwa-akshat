@@ -1,96 +1,117 @@
-<div align="center">
-  <img src="./github-banner.gif"  />
-</div>
-
-###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akshat-vishwakarma-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+# Akshat Vishwakarma
+
+### Frontend Engineer • React • Next.js • TypeScript
+
+Building scalable products, performant web apps, and modern user experiences.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshat-vishwakarma-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/akshatVis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="mailto:gnaman63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://twitter.com/akshatVis">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://akshatv.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+Frontend Engineer with 5+ years of experience building scalable SaaS platforms, dashboards, e-commerce systems, and high-performance web applications.
+
+Specialized in:
+- React & Next.js ecosystems
+- TypeScript architecture
+- Frontend performance optimization
+- Design systems & component libraries
+- Product-focused engineering
+- Remote collaboration with global teams
+
+Currently focused on building production-grade applications with modern frontend architecture and exceptional UX.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Styling & UI
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
+![Shopify Polaris](https://img.shields.io/badge/Shopify%20Polaris-95BF47?style=flat-square&logo=shopify)
+
+### State Management & Data
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
+
+---
+
+## 💼 Experience Highlights
+
+- Worked remotely with international startups and product teams
+- Led frontend development and collaborated across teams
+- Built scalable admin dashboards and SaaS platforms
+- Worked on Shopify integrations and e-commerce systems
+- Developed high-performance UI systems with React & Next.js
+- Experience handling large datasets and complex frontend architecture
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwa.vishwa&"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishwa-akshat&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-akshat&theme=github-dark&hide_border=true" height="170"/>
+
 </div>
 
-###
+---
 
-<h1 align="center">Hi there, I'm Akshat Vishwakarma 👋</h1>
+## 🌍 Current Goals
 
-###
+- Building world-class frontend engineering skills
+- Exploring scalable system design for frontend applications
+- Improving performance, accessibility, and developer experience
+- Contributing to impactful global products
+- Growing into senior/staff-level engineering roles
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 🤝 Let's Connect
 
-<p align="left">I'm a Software Developer based in India, with a passion for building high-quality, scalable software. I enjoy solving complex problems and learning new things in the tech world.</p>
+- LinkedIn → https://www.linkedin.com/in/akshat-vishwakarma-dev/
+- Twitter/X → https://twitter.com/akshatVis
+- Blog → https://akshatv.hashnode.dev/
+- Email → gnaman63@gmail.com
 
-###
-
-<h3 align="left">What I'm Working On</h3>
-
-###
-
-<p align="left">- 🔭 I'm currently working as a Software Developer, building and maintaining software applications for various clients.<br><br>- 📚 I'm currently learning about design patterns and software architecture, as I believe that understanding these concepts will help me write better, more maintainable code.</p>
-
-###
-
-<h3 align="left">What I'm Doing in my Free Time</h3>
-
-###
-
-<p align="left">⚡ In my free time, I love to write blogs about software development, sharing my experiences and insights with the community. You can check out my latest blog posts on my website.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" width="52" alt="less logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" width="52" alt="babel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwa-akshat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=vishwa-akshat&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+
+### Always building. Always learning.
+
 </div>
-
-###
-
-<h3 align="left">Connect with Me</h3>
-
-###
-
-<p align="left">- 📧 Feel free to shoot me an email at <a href="mailto:akvs0707@gmail.com">akvs0707@gmail.com</a><br><br>- 💼 Check out my <a href="https://www.linkedin.com/in/akshat-vishwakarma-dev/">LinkedIn</a> profile to learn more about my professional background<br><br>- 🐦 Follow me on <a href="https://twitter.com/akshatVis">Twitter</a> for updates on my latest projects and blog posts<br><br>- 📝 Check out my blogs <a href="https://akshatv.hashnode.dev/">here</a></p>
-
-###
